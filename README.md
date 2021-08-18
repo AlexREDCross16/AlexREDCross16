@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning `PHP` and 'JS'
 - 💞️ I'm working on ISIDA.by company.
 - 📫 How to reach me belkill@mail.ru,
-- <a href='vk.com/red.cross'> \u{1601}Вконтакте</a>
+- <a href='vk.com/red.cross'> \u{1F601} Вконтакте</a>
 - <p span='color: lightblue'> telegram : @AlexREDCross <p>
 
 <!---
