@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @REDCROSS16
-- 🌱 I’m currently learning `PHP` and 'JS'
+- 👋 Hi, I’m `@REDCROSS16`
+- 🌱 I’m currently learning `PHP` and `JS`
 - 💞️ I'm working on ISIDA.by company.
 - 📫 How to reach me belkill@mail.ru,
-- <a href='vk.com/red.cross'> '\u{1F601}' Вконтакте</a>
-- <p style='color:lightblue'> telegram : @AlexREDCross <p>
+- <a href='vk.com/red.cross'>Вконтакте</a>
+- <a href='#'> telegram : @AlexREDCross </a>
 
 <!---
 REDCROSS16/REDCROSS16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
