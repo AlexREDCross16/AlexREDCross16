@@ -3,6 +3,9 @@
 
 <details close="">
   <summary> Additional information </summary>
+<a href='https://www.linkedin.com/in/%D0%BF%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-ab4468181/'> 
+  <img src='https://user-images.githubusercontent.com/40262929/131119155-ecdc5859-f6ba-40ea-806c-9901d55b8a1d.png' alt='LinkedIn'></img>
+  </a>
   <p>- 🌱 I’m currently learning `PHP` and `JS`
 - 💞️ I'm working on ISIDA.by company.
 - 📫 How to reach me belkill@mail.ru,
