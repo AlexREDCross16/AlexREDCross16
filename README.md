@@ -7,13 +7,14 @@
   <img src='https://user-images.githubusercontent.com/40262929/131119155-ecdc5859-f6ba-40ea-806c-9901d55b8a1d.png' alt='LinkedIn'></img>
   </a>
   <p>- 🌱 I’m currently learning `PHP` and `JS`
-- 💞️ I'm working on ISIDA.by company.
-- 📫 How to reach me belkill@mail.ru,
-- <a href='vk.com/red.cross'>Вконтакте</a>
-- <a href='#'> telegram : @AlexREDCross </a>
+ <p>I'm working on ISIDA.by company</p>
+ <p> My email: <a href="mailto:belkill@mail.ru">belkill@mail.ru </p>
+ <p> <a href='vk.com/red.cross' target="_blank">Вконтакте</a> </p>
+ <p> <a href='#'> telegram : @AlexREDCross </a> </p>
    </p>
 
 </details>
+
 
 <!---
 REDCROSS16/REDCROSS16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
