@@ -39,22 +39,22 @@
   <a href="https://laravel.com/"><img src="https://img.shields.io/badge/-Laravel-red?style=plastic-square&logo=Laravel&logoColor=white"></a>
   
   <h5>In process</h5>
-  <a href="#"><img src="https://img.shields.io/badge/-React%20Native-black?style=plastic-square&logo=react&logoColor=61DAFB">
+  <a href="#"><img src="https://img.shields.io/badge/-React%20Native-black?style=plastic-square&logo=react&logoColor=61DAFB"></a>
   </details>
  </div>
   
 <div align="center">
 <details close="">
   <summary> My tools </summary>
-  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=White">
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=Windows&logoColor=White">
-  <img src="https://img.shields.io/badge/-PHPStorm-black?style=flat-square&logo=Phpstorm&logoColor=WHITE">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue">
+  <a href="#"><img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=White"></a>
+  <a href="#"><img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=Windows&logoColor=White"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-PHPStorm-black?style=flat-square&logo=Phpstorm&logoColor=WHITE"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue"></a>
 </details>
-  </div>
+ </div>
   
 
-  <div align="center">
+ <div align="center">
 <h4>Workplace</h4>
 <a href="#">
 <img src="https://img.shields.io/badge/-@Podolnitskiy.isida.by-white?style=plastic-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAMAAAAL34HQAAAAD1BMVEWMICnu58+oWlnGlovdxbN0Ia4KAAAB10lEQVR42u3aQWrEQBBD0XxJ9z9zliar2AMOH9I6gahX09g9/vofOTmJstSMrUqUrWoEREgYIEJAhIQDH2EGECEgVNlqPkAfYUBIWBASDnyEGULCgpCw4CPMwEcYEBIWhIQDH2GGkLAgJCz4CDPwEQaEhAUh4cBHGBASFoSEBR9hhpAwICQsCAkHPsKAkLAgJBz4CDOEhAEhYcFHmIGPMCAkLAgJBz7CDCFhQEhY8BFm4CMMCAkLQsKBjzBDSBgQEhZ8hBn4CANCwoKQcOAjzBASBoSEBR9hBj7CgJCwICQc+AgzhIQFIWHBR5iBjzAgJCwICQc+wgwhYUFIWPARZuAjDAgJC0LCgY8wQ0hYEBIWfIQZ+AgDQsKCkHDgI8wQEhaEhAMfYQY+woCQsCAkHPgIw+eJC3BrkzjW6qrzcjJPnSv5sE5eBnw+nVwDXvNX58JV5xb68irgNZ2nm7i8Afhklfv+Qd/nv6wpP9AaCHsNhL0Kwl5B+YEIv0ZICFDlsEA5LKjzz/wZDAWK4VZiXK1ny3VqzfhDhJ1pnZV3n1v3I601bmT+JwiRovbp1Dgu/5uPh3Hnrdp3B+G/sblS0dFw/zbQUOwq5Uj646ZZlef38v6cnJx8A8i5FJG4W5ikAAAAAElFTkSuQmCC&logoColor=white">
