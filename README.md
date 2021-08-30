@@ -44,7 +44,7 @@
  </div>
   
 <div align="center">
-<details open="">
+<details close="">
   <summary> My tools </summary>
   <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=White">
   <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=Windows&logoColor=White">
