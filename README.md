@@ -63,8 +63,8 @@
  
 
  <details close="">
-   <summary> Curriculum vitae </summary>
-   <p> coming soon ... </p>
+   <summary> CV </summary>
+   <img src="CV Alexander Podolnitsky_pages-to-jpg-0001.jpg">
  </details>
  
 <!--  <div align="center"><img src="https://user-images.githubusercontent.com/40262929/142156216-e69d6c8a-e691-4f9f-9a60-92cae5fb878d.jpg"></div> -->
