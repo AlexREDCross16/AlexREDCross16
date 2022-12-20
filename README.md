@@ -37,9 +37,9 @@
   <h5>Frameworks</h5>
   <a href="https://www.mediawiki.org/wiki/MediaWiki"><img src="https://img.shields.io/badge/-MediaWiki-006699?style=plastic-square&logo=Wikimedia%20Commons&logoColor=white"></a>
   <a href="https://laravel.com/"><img src="https://img.shields.io/badge/-Laravel-red?style=plastic-square&logo=Laravel&logoColor=white"></a>
-  <a href='#'> symfony
+  <a href='symfony.com'> symfony
   <h5>In process</h5>
-  <a href="#"><img src="https://img.shields.io/badge/-React%20Native-black?style=plastic-square&logo=react&logoColor=61DAFB"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-React%20-black?style=plastic-square&logo=react&logoColor=61DAFB"></a>
   </details>
  </div>
   
