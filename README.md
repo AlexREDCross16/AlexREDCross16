@@ -51,7 +51,8 @@ Vue typescripy
   <a href="#"><img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=Windows&logoColor=White"></a>
   <a href="#"><img src="https://img.shields.io/badge/-PHPStorm-black?style=flat-square&logo=Phpstorm&logoColor=WHITE"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue"></a>
-Docker
+ <a href="#"><img src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&logoColor=blue"></a>
+     
 </details>
  </div>
   
