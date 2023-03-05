@@ -40,6 +40,9 @@
   <a href='https://symfony.com/'> <img src="https://img.shields.io/badge/-Symfony-black?style=plastic-square&logo=Symfony&logoColor=white">
   <h5>In process</h5>
   <a href="#"><img src="https://img.shields.io/badge/-React%20-black?style=plastic-square&logo=react&logoColor=61DAFB"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=Typescript&logoColor=blue"></a>      
+        <a href="#"><img src="https://img.shields.io/badge/-Vue-white?style=flat-square&logo=Vue&logoColor=green"></a>
+         <a href="#"><img src="https://img.shields.io/badge/-Angular-white?style=flat-square&logo=Angular&logoColor=red"></a>   
 VueJS typescript Angular
   </details>
  </div>
