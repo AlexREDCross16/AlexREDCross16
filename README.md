@@ -43,7 +43,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=Typescript&logoColor=blue"></a>      
         <a href="#"><img src="https://img.shields.io/badge/-Vue-white?style=flat-square&logo=Vue&logoColor=green"></a>
          <a href="#"><img src="https://img.shields.io/badge/-Angular-white?style=flat-square&logo=Angular&logoColor=red"></a>   
-VueJS typescript Angular
   </details>
  </div>
   
