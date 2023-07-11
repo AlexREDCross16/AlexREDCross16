@@ -77,7 +77,8 @@
 <div align="center">
  <details close="">
    <summary> ------ CV ------</summary>
-   <img src="CV Alexander Podolnitsky 2022.png">
+       // todo NEW CV
+<!--    <img src="CV Alexander Podolnitsky 2022.png"> -->
  </details>
  </div>
  
