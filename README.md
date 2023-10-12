@@ -77,7 +77,7 @@
 <div align="center">
  <details close="">
    <summary> ------ CV ------</summary>
-       // todo NEW CV soon
+       <a href='href="http://redcross16.github.io'><img src="CV 2023.png"></a>
 <!--    <img src="CV Alexander Podolnitsky 2022.png"> -->
  </details>
  </div>
