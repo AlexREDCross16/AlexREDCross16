@@ -60,7 +60,7 @@
   
 
  <div align="center">
-<h4>Workplace</h4>
+<h4> Workplace </h4>
 <!-- <a href="http://isida.by">
 <img src="https://img.shields.io/badge/-@Podolnitskiy.isida.by-white?style=plastic-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAMAAAAL34HQAAAAD1BMVEWMICnu58+oWlnGlovdxbN0Ia4KAAAB10lEQVR42u3aQWrEQBBD0XxJ9z9zliar2AMOH9I6gahX09g9/vofOTmJstSMrUqUrWoEREgYIEJAhIQDH2EGECEgVNlqPkAfYUBIWBASDnyEGULCgpCw4CPMwEcYEBIWhIQDH2GGkLAgJCz4CDPwEQaEhAUh4cBHGBASFoSEBR9hhpAwICQsCAkHPsKAkLAgJBz4CDOEhAEhYcFHmIGPMCAkLAgJBz7CDCFhQEhY8BFm4CMMCAkLQsKBjzBDSBgQEhZ8hBn4CANCwoKQcOAjzBASBoSEBR9hBj7CgJCwICQc+AgzhIQFIWHBR5iBjzAgJCwICQc+wgwhYUFIWPARZuAjDAgJC0LCgY8wQ0hYEBIWfIQZ+AgDQsKCkHDgI8wQEhaEhAMfYQY+woCQsCAkHPgIw+eJC3BrkzjW6qrzcjJPnSv5sE5eBnw+nVwDXvNX58JV5xb68irgNZ2nm7i8Afhklfv+Qd/nv6wpP9AaCHsNhL0Kwl5B+YEIv0ZICFDlsEA5LKjzz/wZDAWK4VZiXK1ny3VqzfhDhJ1pnZV3n1v3I601bmT+JwiRovbp1Dgu/5uPh3Hnrdp3B+G/sblS0dFw/zbQUOwq5Uj646ZZlef38v6cnJx8A8i5FJG4W5ikAAAAAElFTkSuQmCC&logoColor=white">
 </a> -->
@@ -71,7 +71,7 @@
       <img src="https://img.shields.io/badge/-alexander.podolnitski@webpay.by-black?style=plastic-square&logo=webpay&logoColor=white"></a>
 </div> -->
 <a href="mailto:alexander.podolnitski.ivalab">
-      <img src="https://img.shields.io/badge/-IL|ivalab-blue?style=plastic-square&logo=ivalab&logoColor=white"></a>
+      <img src="https://img.shields.io/badge/-IL | ivalab-blue?style=plastic-square&logo=ivalab&logoColor=white"></a>
 </div>
  
 <div align="center">
