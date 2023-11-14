@@ -70,9 +70,9 @@
 <!-- <a href="mailto:alexander.podolnitski@webpay.by">
       <img src="https://img.shields.io/badge/-alexander.podolnitski@webpay.by-black?style=plastic-square&logo=webpay&logoColor=white"></a>
 </div> -->
-<a href="mailto:alexander.podolnitski.ivalab">
+<!-- <a href="mailto:alexander.podolnitski.ivalab">
       <img src="https://img.shields.io/badge/-IL | ivalab-blue?style=plastic-square&logo=ivalab&logoColor=white"></a>
-</div>
+</div> -->
  
 <div align="center">
  <details close="">
