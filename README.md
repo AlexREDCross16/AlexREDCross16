@@ -1,66 +1,84 @@
 <h1 align="center"> &#128314; Hi, I’m Alex &#128315; Podolnitski &#128314;</h1>
-<h3 align="center"> A PHP / JS Software-developer</h3>
+<h3 align="center"> [ <b>PHP</b> ] [ <b>JS</b> ] Software-developer</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/%D0%BF%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-ab4468181/" rel="nofollow">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/-Alexander%20(Alex_RED_Cross)%20Podolnitski-0a66c2?style=plastic-square&logo=LinkedIn&logoColor=white" style="max-width:100%;">
-</a>
- <a href="http://redcross16.github.io"><img src="https://img.shields.io/badge/-@REDCROSS16-181717?style=plastic-square&logo=github&logoColor=white"></a>
-  </div>
-<h5 align="center">Contacts </h5>
+      <a href="https://www.linkedin.com/in/%D0%BF%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-ab4468181/" rel="nofollow">
+            <img alt="LinkedIn" src="https://img.shields.io/badge/-Alexander%20(Alex_RED_Cross)%20Podolnitski-0a66c2?style=plastic-square&logo=LinkedIn&logoColor=white" style="max-width:100%;">
+      </a>
+      <a href="http://redcross16.github.io" rel="nofollow">
+            <img alt="github" src="https://img.shields.io/badge/-@REDCROSS16-181717?style=plastic-square&logo=github&logoColor=white">
+      </a>
+</div>
+
+<h5 align="center"> [ Contacts ] </h5>
 <div align="center">
-<a href="http://t.me/AlexREDCross"><img src="https://img.shields.io/badge/-@AlexREDCross-26A5E4?style=plastic-square&logo=Telegram&logoColor=white"></a>
-<a href="mailto:zvertred@gmail.com"><img src="https://img.shields.io/badge/-zvertred@gmail.com-EA4335?style=plastic-square&logo=gmail&logoColor=white"></a>
-<a href="mailto:belkill@mail.ru"><img src="https://img.shields.io/badge/-belkill@mail.ru-005FF9?style=plastic-square&logo=mail.ru&logoColor=white"></a>
+      <a href="http://t.me/AlexREDCross"><img src="https://img.shields.io/badge/-@AlexREDCross-26A5E4?style=plastic-square&logo=Telegram&logoColor=white"></a>
+      <a href="mailto:zvertred@gmail.com"><img src="https://img.shields.io/badge/-zvertred@gmail.com-EA4335?style=plastic-square&logo=gmail&logoColor=white"></a>
+      <a href="mailto:belkill@mail.ru"><img src="https://img.shields.io/badge/-belkill@mail.ru-005FF9?style=plastic-square&logo=mail.ru&logoColor=white"></a>
 </div>
 
 <div align="center">
-<details close="">
-  <summary> GitHub stats </summary>
-  
-   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=redcross16)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcross16)](https://github.com/anuraghazra/github-readme-stats)
-  </details>
-</div>
+ <details close="">
+   <summary> [ Curriculum Vitae ] </summary>
+       <a href="http://redcross16.github.io"><img src="CV 2023.png" style=":hover {opacity: 0.5}"></a>
+<!--    <img src="CV Alexander Podolnitsky 2022.png"> -->
+ </details>
+ </div>
  
 <div align="center"> 
  <details close="">
-  <summary> Tech stack </summary>
-  <h5> Languages </h5>
- <a href="#"><img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=Javascript&logoColor=black"></a> 
-  <a href="#"><img src="https://img.shields.io/badge/-PHP-blueviolet?style=plastic-square&logo=PHP&logoColor=WHITE"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-CSS-1572B6?style=plastic-square&logo=CSS3&logoColor=WHITE"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-HTML5-white?style=plastic-square&logo=HTML5&logoColor=WHITE"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-0078D6?style=flat-square&logo=PostgreSQL&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>
+  <summary> [ Tech stack ] </summary>
+       
+  <h5> [ Techologies ] </h5>
+       <a href="#"><img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=Javascript&logoColor=black"></a> 
+       <a href="#"><img src="https://img.shields.io/badge/-PHP-blueviolet?style=plastic-square&logo=PHP&logoColor=WHITE"></a>
+       <a href="#"><img src="https://img.shields.io/badge/-CSS-1572B6?style=plastic-square&logo=CSS3&logoColor=WHITE"></a>
+       <a href="#"><img src="https://img.shields.io/badge/-HTML5-white?style=plastic-square&logo=HTML5&logoColor=WHITE"></a>
+       <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-0078D6?style=flat-square&logo=PostgreSQL&logoColor=white"></a>
+       <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>
+       <a href="#"><img src="https://img.shields.io/badge/-Docker-4479A1?style=flat-square&logo=Docker&logoColor=white"></a>
  
-  <h5>Frameworks</h5>
+  <h5>[ PHP Frameworks ]</h5>
   <a href="https://www.mediawiki.org/wiki/MediaWiki"><img src="https://img.shields.io/badge/-MediaWiki-006699?style=plastic-square&logo=Wikimedia%20Commons&logoColor=white"></a>
   <a href="https://laravel.com/"><img src="https://img.shields.io/badge/-Laravel-red?style=plastic-square&logo=Laravel&logoColor=white"></a>
   <a href='https://symfony.com/'> <img src="https://img.shields.io/badge/-Symfony-black?style=plastic-square&logo=Symfony&logoColor=white">
-  <h5>In process</h5>
-  <a href="#"><img src="https://img.shields.io/badge/-React%20-black?style=plastic-square&logo=react&logoColor=61DAFB"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=Typescript&logoColor=blue"></a>      
+  <h5>[ In process ]</h5>
+        <a href="#"><img src="https://img.shields.io/badge/-React%20-black?style=plastic-square&logo=react&logoColor=61DAFB"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=Typescript&logoColor=blue"></a>      
         <a href="#"><img src="https://img.shields.io/badge/-Vue-white?style=flat-square&logo=Vue&logoColor=green"></a>
-         <a href="#"><img src="https://img.shields.io/badge/-Angular-white?style=flat-square&logo=Angular&logoColor=red"></a>   
+        <a href="#"><img src="https://img.shields.io/badge/-Angular-white?style=flat-square&logo=Angular&logoColor=red"></a>   
   </details>
  </div>
   
 <div align="center">
-<details close="">
-  <summary> My tools </summary>
-  <a href="#"><img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=White"></a>
-  <a href="#"><img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=Windows&logoColor=White"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-PHPStorm-black?style=flat-square&logo=Phpstorm&logoColor=WHITE"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue"></a>
- <a href="#"><img src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&logoColor=blue"></a>
-     
-</details>
+      <details close="">
+        <summary> [ Tools ] </summary>
+        <a href="#"><img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=White"></a>
+        <a href="#"><img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=Windows&logoColor=White"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-PHPStorm-black?style=flat-square&logo=Phpstorm&logoColor=WHITE"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=flat-square&logo=Visual%20Studio%20Code&logoColor=blue"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&logoColor=blue"></a>
+      </details>
  </div>
+
+<div align="center">
+      <details close="">
+        <summary> [ GitHub stats ] </summary>
+  
+         ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=redcross16)
+  
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcross16)](https://github.com/anuraghazra/github-readme-stats)
+      </details>
+</div>
   
 
- <div align="center">
-<h4> Workplace </h4>
+
+
+
+
+
+
+<!-- <div align="center">
+<h4> Workplace </h4> -->
 <!-- <a href="http://isida.by">
 <img src="https://img.shields.io/badge/-@Podolnitskiy.isida.by-white?style=plastic-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAMAAAAL34HQAAAAD1BMVEWMICnu58+oWlnGlovdxbN0Ia4KAAAB10lEQVR42u3aQWrEQBBD0XxJ9z9zliar2AMOH9I6gahX09g9/vofOTmJstSMrUqUrWoEREgYIEJAhIQDH2EGECEgVNlqPkAfYUBIWBASDnyEGULCgpCw4CPMwEcYEBIWhIQDH2GGkLAgJCz4CDPwEQaEhAUh4cBHGBASFoSEBR9hhpAwICQsCAkHPsKAkLAgJBz4CDOEhAEhYcFHmIGPMCAkLAgJBz7CDCFhQEhY8BFm4CMMCAkLQsKBjzBDSBgQEhZ8hBn4CANCwoKQcOAjzBASBoSEBR9hBj7CgJCwICQc+AgzhIQFIWHBR5iBjzAgJCwICQc+wgwhYUFIWPARZuAjDAgJC0LCgY8wQ0hYEBIWfIQZ+AgDQsKCkHDgI8wQEhaEhAMfYQY+woCQsCAkHPgIw+eJC3BrkzjW6qrzcjJPnSv5sE5eBnw+nVwDXvNX58JV5xb68irgNZ2nm7i8Afhklfv+Qd/nv6wpP9AaCHsNhL0Kwl5B+YEIv0ZICFDlsEA5LKjzz/wZDAWK4VZiXK1ny3VqzfhDhJ1pnZV3n1v3I601bmT+JwiRovbp1Dgu/5uPh3Hnrdp3B+G/sblS0dFw/zbQUOwq5Uj646ZZlef38v6cnJx8A8i5FJG4W5ikAAAAAElFTkSuQmCC&logoColor=white">
 </a> -->
@@ -74,13 +92,7 @@
       <img src="https://img.shields.io/badge/-IL | ivalab-blue?style=plastic-square&logo=ivalab&logoColor=white"></a>
 </div> -->
  
-<div align="center">
- <details close="">
-   <summary> ------ CV ------</summary>
-       <a href="http://redcross16.github.io"><img src="CV 2023.png" style=":hover {opacity: 0.5}"></a>
-<!--    <img src="CV Alexander Podolnitsky 2022.png"> -->
- </details>
- </div>
+
  
 <!--  <div align="center"><img src="https://user-images.githubusercontent.com/40262929/142156216-e69d6c8a-e691-4f9f-9a60-92cae5fb878d.jpg"></div> -->
 <!---
