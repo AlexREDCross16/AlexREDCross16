@@ -19,7 +19,7 @@
 <div align="center">
  <details close="">
    <summary> [ Curriculum Vitae ] </summary>
-       <a href="http://redcross16.github.io"><img src="CV 2023.png" style=":hover {opacity: 0.5}"></a>
+       <a href="https://alexredcross16.github.io/"><img src="CV 2023.png" style=":hover {opacity: 0.5}"></a>
 <!--    <img src="CV Alexander Podolnitsky 2022.png"> -->
  </details>
  </div>
