@@ -64,8 +64,8 @@
       <details close="">
         <summary> [ GitHub stats ] </summary>
             
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=redcross16)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcross16)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexredcross16)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexredcross16)](https://github.com/anuraghazra/github-readme-stats)
       </details>
 </div>
   
